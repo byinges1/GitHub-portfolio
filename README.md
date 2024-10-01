@@ -1,5 +1,5 @@
-# Hi There! I'm Raine Johnson
-<a href="https://www.linkedin.com/in/raine-johnson/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi There! I'm Betelhem Yinges!
+<a href="https://www.linkedin.com/in/betelhem-yinges-906b96279//"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an undergraduate at the University of Washington Bothell with a profound interest in technology and cybersecurity, with a dedication to solving complex security problems.
 
