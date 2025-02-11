@@ -1,12 +1,9 @@
-# Hi There! I'm Betelhem Yinges!
+# Hi There! I'm Betelhem Yinges or Betty!
 <a href="https://www.linkedin.com/in/betelhem-yinges-906b96279//"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-I am an undergraduate at the University of Washington Bothell with a profound interest in technology and cybersecurity, with a dedication to solving complex security problems.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity and people skills. I'm setting my sights on a security engineer job, where I can strive to implement secure solutions to problems while also having the people skills to manage teams efficiently and effectively.
-
+My career goal is to live my passion of analyzing data and creating visually simple representations that reveal the beauty and insights hidden within complex data, ultimately helping the world make informed decisions and drive positive change.
 ## Skills
 
 | Skill                                         | Associated Project         |
